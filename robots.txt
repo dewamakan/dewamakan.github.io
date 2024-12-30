@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dewamakan.github.io/sitemap.xml
